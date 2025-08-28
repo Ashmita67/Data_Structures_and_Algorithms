@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
