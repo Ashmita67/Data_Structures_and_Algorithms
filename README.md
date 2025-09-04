@@ -18,6 +18,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
