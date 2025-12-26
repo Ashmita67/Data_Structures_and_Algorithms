@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
+| [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
