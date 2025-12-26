@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
