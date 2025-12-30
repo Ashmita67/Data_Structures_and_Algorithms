@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -35,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
 ## Simulation
