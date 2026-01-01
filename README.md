@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0049-group-anagrams) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
