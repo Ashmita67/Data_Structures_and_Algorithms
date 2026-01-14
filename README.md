@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
