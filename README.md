@@ -65,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+| [0657-robot-return-to-origin](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
