@@ -50,6 +50,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -94,4 +96,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
