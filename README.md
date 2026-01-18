@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Greedy
 |  |
 | ------- |
