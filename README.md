@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0766-toeplitz-matrix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0766-toeplitz-matrix) |
+| [1598-crawler-log-folder](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
+| [1598-crawler-log-folder](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1598-crawler-log-folder) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
+| [1598-crawler-log-folder](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1598-crawler-log-folder) |
 ## Sorting
 |  |
 | ------- |
