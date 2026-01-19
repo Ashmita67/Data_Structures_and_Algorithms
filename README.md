@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0766-toeplitz-matrix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0766-toeplitz-matrix) |
 | [1598-crawler-log-folder](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1598-crawler-log-folder) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
