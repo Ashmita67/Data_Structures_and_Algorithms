@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+| [2405-optimal-partition-of-string](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/2405-optimal-partition-of-string) |
 ## Linked List
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
 | [1598-crawler-log-folder](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/1598-crawler-log-folder) |
+| [2405-optimal-partition-of-string](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/2405-optimal-partition-of-string) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
+| [2405-optimal-partition-of-string](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/2405-optimal-partition-of-string) |
 ## Bit Manipulation
 |  |
 | ------- |
