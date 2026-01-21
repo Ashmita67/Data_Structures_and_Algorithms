@@ -112,4 +112,24 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0766-toeplitz-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0732-my-calendar-iii) |
+## Design
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0732-my-calendar-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0732-my-calendar-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0732-my-calendar-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Ashmita67/Data_Structures_and_Algorithms/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
